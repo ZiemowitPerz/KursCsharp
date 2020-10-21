@@ -1,0 +1,16 @@
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.DataModel.xml
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.vbprojAssemblyReference.cache
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.Resources.resources
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.vbproj.GenerateResource.cache
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.vbproj.CoreCompileInputs.cache
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.vbproj.CopyComplete
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.xml
+C:\Users\Vueservice\source\repos\20483-Programming-in-C-Sharp\Allfiles\Mod07\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
